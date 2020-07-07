@@ -1,0 +1,17 @@
+{
+  "docs": {
+    "Introduction": [
+      "intro",
+      "overview",
+      "getting-started"
+    ],
+    "API Reference": [
+      "interfaces/nocust",
+      "interfaces/wallet"
+    ],
+    "Extras": [
+      "operators",
+      "nocust-overview"
+    ]
+  }
+}
